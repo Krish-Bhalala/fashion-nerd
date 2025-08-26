@@ -1,0 +1,10 @@
+t-shirt
+cap
+hat
+shoes
+boots
+tie
+suits
+tuxedo
+trousers
+denims
